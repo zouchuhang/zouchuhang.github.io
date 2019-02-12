@@ -5,26 +5,26 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 
 # Articles     
 **数理统计**     
-1. 线性代数    
-2. 数理统计    
+线性代数    
+数理统计    
 文章杂列    
 
 **计算机基础**        
 文章杂列   
     
 **系统架构**   
-1. 数据管理系统   
-2. 分布式大数据处理系统    
+数据管理系统   
+分布式大数据处理系统    
 文章杂列   
 
 **机器学习及其应用**   
-1. 数据挖掘   
+数据挖掘   
 &emsp;&emsp;《数据挖掘导论(英文版)》Pang-Ning Tan 等著    
-2. 机器学习   
+机器学习   
 &emsp;&emsp;《统计学习方法》李航著   
 &emsp;&emsp;《机器学习》周志华著   
-3. 深度学习   
-4. 自然语言处理    
+深度学习   
+自然语言处理    
 &emsp;&emsp;预处理模型   
 &emsp;&emsp;命名实体识别    
 文章杂列    
