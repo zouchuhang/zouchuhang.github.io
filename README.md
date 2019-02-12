@@ -4,20 +4,20 @@
 Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Science and Big Data Technology. Peng is now also a member in the ECNU-KD S&T Ltd. Associated  Lab, which aims to analyse the impact of various social events on the stock price of A-share listed companies. Besides, Peng is also a internship following the Associate Professor  Yifeng Luo, researching on a new type of Distributed Database System.
 
 # Articles     
-## **数理统计**     
+## 数理统计     
 线性代数    
 数理统计    
 文章杂列    
 
-**计算机基础**        
+## 计算机基础        
 文章杂列   
     
-**系统架构**   
+## 系统架构   
 数据管理系统   
 分布式大数据处理系统    
 文章杂列   
 
-**机器学习及其应用**   
+## 机器学习及其应用   
 数据挖掘   
 &emsp;&emsp;《数据挖掘导论(英文版)》Pang-Ning Tan 等著    
 机器学习   
