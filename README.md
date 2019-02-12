@@ -74,7 +74,7 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 ## Correspondence    
 **Laboratory**    
 Rm.329, Geo Building, East China Normal University, 3663 North Zhongshan Road, Shanghai, China     
-**Zip Code **    
+**Zip Code**    
 200062    
 **Tel**   
 +86-18817371550    
