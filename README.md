@@ -1,4 +1,5 @@
 ![Profile](profile.PNG)
+Linking：[GitHub](https://github.com/SimpleLP)&emsp;[CSDN](https://me.csdn.net/Life_Mining)
 
 ## Biography
 Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Science and Big Data Technology. Peng is now also a member in the ECNU-KD S&T Ltd. Associated  Lab, which aims to analyse the impact of various social events on the stock price of A-share listed companies. Besides, Peng is also a internship following the Associate Professor  Yifeng Luo, researching on a new type of Distributed Database System.
