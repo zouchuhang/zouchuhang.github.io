@@ -85,8 +85,8 @@ Travel (北京、上海、济南、南京、杭州等)
 
 ## Correspondence    
 #### Laboratory
-Rm.329, Geo Building, East China Normal University, 3663 North Zhongshan Road, Shanghai, China            
+Rm.329, Geo Building, East China Normal University, 3663 North Zhongshan Road, Shanghai, China      
 #### Zip Code
-200062       
+200062
 #### Tel
-+86-18817371550    
++86-18817371550
