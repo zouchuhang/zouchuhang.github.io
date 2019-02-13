@@ -32,7 +32,7 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 &emsp;&emsp;《机器学习》周志华著   
 深度学习   
 自然语言处理    
-&emsp;&emsp;预训练技术       
+&emsp;&emsp;[预训练技术](https://simplelp.github.io/NLP-PreTraining/)         
 &emsp;&emsp;命名实体识别    
 文章杂列    
 
