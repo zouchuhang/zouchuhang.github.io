@@ -18,7 +18,7 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 
 #### 计算机基础   
 计算机语言     
-&emsp;&emsp;TensorFlow  [香港科技大学TensorFlow教程](https://pan.baidu.com/s/1c19SI56#list/path=%2F)       
+&emsp;&emsp;TensorFlow  ([香港科技大学TensorFlow教程](https://pan.baidu.com/s/1c19SI56#list/path=%2F) )           
 文章杂列   
     
 #### 系统架构   
