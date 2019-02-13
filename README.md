@@ -8,6 +8,8 @@
 ## Biography
 Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Science and Big Data Technology. Peng is now also a member in the ECNU-KD S&T Ltd. Associated  Lab, which aims to analyse the impact of various social events on the stock price of A-share listed companies. Besides, Peng is also a internship following the Associate Professor  Yifeng Luo, researching on a new type of Distributed Database System.
 
+----------------------------------------------------------
+
 ## Articles     
 #### 数理统计     
 [线性代数](https://simplelp.github.io/LinearAlgebra/)    
@@ -34,12 +36,15 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 &emsp;&emsp;命名实体识别    
 文章杂列    
 
+--------------------------------------------------------
 
 ## Hobbies
 Long-distance Running (20.02 KM)    
 Reading (余华、周汝昌、ひがしの けいご  and so on)   
 Watching movies (Especially Indian movies)   
 Travel (北京、上海、济南、南京、杭州等)   
+
+-------------------------------------------------------------
 
 ## Useful Links
 #### CCF Lists    
@@ -76,10 +81,12 @@ Travel (北京、上海、济南、南京、杭州等)
 [清华大学开源软件镜像网](https://mirrors.tuna.tsinghua.edu.cn/)    
 [XX-net](https://github.com/XX-net/XX-Net)   
 
+---------------------------------------------------------
+
 ## Correspondence    
-#### Laboratory   
-Rm.329, Geo Building, East China Normal University, 3663 North Zhongshan Road, Shanghai, China       
-#### Zip Code      
-200062    
-#### Tel   
+#### Laboratory
+Rm.329, Geo Building, East China Normal University, 3663 North Zhongshan Road, Shanghai, China            
+#### Zip Code
+200062       
+#### Tel
 +86-18817371550    
