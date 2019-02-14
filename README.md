@@ -69,6 +69,7 @@ OLAP
 [国立清华大学郑少为老师的主页](http://www.stat.nthu.edu.tw/~swcheng/index.htm)    
 
 #### 计算机基础   
+暂无
 
 #### 系统架构    
 [数据管理系统主页](http://111.231.251.48/dbms2018/main.html)   
