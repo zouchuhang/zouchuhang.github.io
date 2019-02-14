@@ -12,30 +12,41 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 
 ## Articles     
 #### 数理统计     
+高等数学        
 [线性代数](https://simplelp.github.io/LinearAlgebra/)    
-数理统计    
-文章杂列    
+数理统计       
+凸优化        
+离散数学          
+文章杂列      
 
 #### 计算机基础   
-计算机语言     
-&emsp;&emsp;TensorFlow  ([香港科技大学TensorFlow教程](https://pan.baidu.com/s/1c19SI56#list/path=%2F) )           
+计算机语言      
+&emsp;&emsp;Python  ([莫烦Python的主页](https://morvanzhou.github.io/learning-steps/) )    
+&emsp;&emsp;TensorFlow  ([香港科技大学TensorFlow教程](https://pan.baidu.com/s/1c19SI56#list/path=%2F) )     
+数据结构
+算法导论
 文章杂列   
     
 #### 系统架构   
-数据管理系统   
-分布式大数据处理系统    
-文章杂列   
+计算机系统           
+操作系统           
+数据管理系统         
+OLAP      
+分布式大数据处理系统      
+文章杂列       
 
-#### 机器学习及其应用   
+#### 机器学习及其应用     
+人工智能导论       
 数据挖掘   
 &emsp;&emsp;《数据挖掘导论(英文版)》Pang-Ning Tan 等著    
 机器学习   
 &emsp;&emsp;《统计学习方法》李航著   
 &emsp;&emsp;《机器学习》周志华著   
 深度学习   
-自然语言处理    
-&emsp;&emsp;[预训练技术](https://simplelp.github.io/NLP-PreTraining/)         
-&emsp;&emsp;命名实体识别    
+自然语言处理     
+&emsp;&emsp;[预训练技术](https://simplelp.github.io/NLP-PreTraining/)          
+&emsp;&emsp;命名实体识别        
+商业分析        
 文章杂列    
 
 --------------------------------------------------------
@@ -57,7 +68,6 @@ Travel (北京、上海、济南、南京、杭州等)
 [国立清华大学郑少为老师的主页](http://www.stat.nthu.edu.tw/~swcheng/index.htm)    
 
 #### 计算机基础   
-[莫烦Python的主页](https://morvanzhou.github.io/learning-steps/)   
 
 #### 系统架构    
 [数据管理系统主页](http://111.231.251.48/dbms2018/main.html)   
