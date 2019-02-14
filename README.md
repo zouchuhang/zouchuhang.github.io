@@ -23,9 +23,9 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 计算机语言      
 &emsp;&emsp;Python  ([莫烦Python的主页](https://morvanzhou.github.io/learning-steps/) )    
 &emsp;&emsp;TensorFlow  ([香港科技大学TensorFlow教程](https://pan.baidu.com/s/1c19SI56#list/path=%2F) )     
-数据结构
-算法导论
-文章杂列   
+数据结构       
+算法导论       
+文章杂列       
     
 #### 系统架构   
 计算机系统           
@@ -47,15 +47,16 @@ OLAP
 &emsp;&emsp;[预训练技术](https://simplelp.github.io/NLP-PreTraining/)          
 &emsp;&emsp;命名实体识别        
 商业分析        
+数据科学伦理       
 文章杂列    
 
 --------------------------------------------------------
 
 ## Hobbies
-Long-distance Running (20.02 KM)    
-Reading (余华、周汝昌、ひがしの けいご  and so on)   
-Watching movies (Especially Indian movies)   
-Travel (北京、上海、济南、南京、杭州等)   
+**Long-distance Running**(20.02 KM)    
+**Reading** ([豆瓣读书](https://book.douban.com/mine?status=collect))      
+**Watching movies** ( [豆瓣电影](https://movie.douban.com/mine?status=collect) )   
+**Travel** ([马蜂窝](http://www.mafengwo.cn/u/88900054.html))    
 
 -------------------------------------------------------------
 
