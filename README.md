@@ -14,7 +14,7 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 #### 数理统计     
 高等数学        
 [线性代数](https://simplelp.github.io/LinearAlgebra/)    
-数理统计       
+[数理统计](https://simplelp.github.io/ProbabilityAndMathematicalStatistics/)       
 凸优化        
 离散数学          
 文章杂列      
