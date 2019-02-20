@@ -39,9 +39,7 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 人工智能导论       
 [数据挖掘](https://simplelp.github.io/IntroToDataMining/)     
 &emsp;&emsp;《数据挖掘导论(英文版)》Pang-Ning Tan 等著    
-机器学习   
-&emsp;&emsp;《统计学习方法》李航著   
-&emsp;&emsp;《机器学习》周志华著   
+[机器学习](https://simplelp.github.io/MachineLearning/)    
 深度学习   
 自然语言处理     
 &emsp;&emsp;[预训练技术](https://simplelp.github.io/NLP-PreTraining/)          
