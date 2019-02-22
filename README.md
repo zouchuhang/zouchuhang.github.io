@@ -1,7 +1,7 @@
 ![Profile](profile.PNG)
 
 --------------------------------------------------
-*Linking：[GitHub](https://github.com/SimpleLP)&emsp;[CSDN](https://me.csdn.net/Life_Mining)*
+*Linking：[GitHub](https://github.com/SimpleLP/simplelp.github.io)&emsp;[CSDN](https://me.csdn.net/Life_Mining)*
 
 ------------------------------------
 
