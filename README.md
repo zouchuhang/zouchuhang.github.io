@@ -43,7 +43,7 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 - 自然语言处理     
     - [预训练技术](https://simplelp.github.io/NLP-PreTraining/)          
     - 命名实体识别        
-- 商业分析        
+- [商业分析](https://simplelp.github.io/BusinessAnalytics/)        
 - 数据科学伦理       
 - 文章杂列    
 
