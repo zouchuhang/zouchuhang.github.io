@@ -39,7 +39,8 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
     - ([莫烦Python的主页](https://morvanzhou.github.io/learning-steps/) )    
     - ([香港科技大学TensorFlow教程](https://pan.baidu.com/s/1c19SI56#list/path=%2F) )     
 - 数据结构       
-- 算法导论       
+- 算法导论
+- 数据科学与工程的算法基础
 - 文章杂列       
     
 #### 系统架构   
