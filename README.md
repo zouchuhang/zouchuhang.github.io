@@ -96,7 +96,8 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 - [国队导师西电王楠楠](http://web.xidian.edu.cn/nnwang/index.html)   
 - [Hung-yi Lee的主页](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)   
 - [colah’s blog](http://colah.github.io/)    
-- [玻森实验室](https://bosonnlp.com/)    
+- [玻森实验室](https://bosonnlp.com/)   
+- [吴苑斌老师主页](http://ybwu.org/)
 
 #### 其他   
 - [杜云涛的主页](https://zealscott.com/)      
