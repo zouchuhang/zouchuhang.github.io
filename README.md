@@ -14,7 +14,7 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 
 -----------------------------------------------
 
-## Projects
+## Projects & Competitions
 
 
 --------------------------------------------
