@@ -84,6 +84,8 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 #### 计算机基础   
 - [牛客网](https://www.nowcoder.com/)
 - [Leetcode](https://leetcode-cn.com/problemset/all/)
+- [天池](https://tianchi.aliyun.com/competition/gameList/activeList)
+- [Kaggle](https://www.kaggle.com/)
 
 #### 系统架构    
 - [数据管理系统主页](http://111.231.251.48/dbms2018/main.html)   
