@@ -40,7 +40,7 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
     - ([香港科技大学TensorFlow教程](https://pan.baidu.com/s/1c19SI56#list/path=%2F) )     
 - 数据结构       
 - 算法导论
-- 数据科学与工程的算法基础
+- [数据科学与工程的算法基础](https://simplelp.github.io/AlgorithmFoundationsOfDS/)
 - 文章杂列       
     
 #### 系统架构   
