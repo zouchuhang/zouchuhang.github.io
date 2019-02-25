@@ -36,9 +36,9 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 
 #### 计算机基础   
 - 计算机语言      
-    - ([莫烦Python的主页](https://morvanzhou.github.io/learning-steps/) )    
-    - ([香港科技大学TensorFlow教程](https://pan.baidu.com/s/1c19SI56#list/path=%2F) )     
-    - ([清华大学JAVA程序设计](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740123_X+sp/courseware/69a0058936fd49cb90e928f6c21d0f41/eadfcac1667a4edc80c0d0bdf1da5f44/))
+    - [莫烦Python的主页](https://morvanzhou.github.io/learning-steps/)     
+    - [香港科技大学TensorFlow教程](https://pan.baidu.com/s/1c19SI56#list/path=%2F)      
+    - [清华大学JAVA程序设计](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740123_X+sp/courseware/69a0058936fd49cb90e928f6c21d0f41/eadfcac1667a4edc80c0d0bdf1da5f44/)
 - 数据结构       
 - 算法导论
 - [数据科学与工程的算法基础](https://simplelp.github.io/AlgorithmFoundationsOfDS/)
