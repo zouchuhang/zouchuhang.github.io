@@ -3,7 +3,7 @@
 
 ------------------------
 
-¡¾**[HOME](https://simplelp.github.io/)**¡¿&nbsp; &nbsp;¡¾**[PUBLICATIONS](https://simplelp.github.io/publications/)**¡¿&nbsp;&nbsp; ¡¾**[PROJECTS](https://simplelp.github.io/projects/)**¡¿ &nbsp;&nbsp;¡¾**[BLOG](https://simplelp.github.io/blog/)**¡¿&nbsp;&nbsp;  ¡¾**[USEFUL LINKS](https://simplelp.github.io/links/)**¡¿
+Â¡Â¾**[HOME](https://simplelp.github.io/)**Â¡Â¿&nbsp; &nbsp;Â¡Â¾**[PUBLICATIONS](https://simplelp.github.io/publications/)**Â¡Â¿&nbsp;&nbsp; Â¡Â¾**[PROJECTS](https://simplelp.github.io/projects/)**Â¡Â¿ &nbsp;&nbsp;Â¡Â¾**[BLOG](https://simplelp.github.io/blog/)**Â¡Â¿&nbsp;&nbsp;  Â¡Â¾**[USEFUL LINKS](https://simplelp.github.io/links/)**Â¡Â¿
 
 ---------------------
 
