@@ -22,4 +22,4 @@ Currently, Peng is a junior at ECNU, pursuing his Bachelor's  degree in Data Sci
 <br>
 <br>
 <br>
-<center>This page maintained by [SimpleLP](https://github.com/SimpleLP/simplelp.github.io)</center>
+<center>This page maintained by @ [SimpleLP](https://github.com/SimpleLP/simplelp.github.io) using [MaHua](http://mahua.jser.me/)</center>
