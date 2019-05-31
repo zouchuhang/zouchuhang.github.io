@@ -31,9 +31,11 @@ a::selection{background:rgba(255,255,0,0.3);color:#0645ad}
 p{
 margin:1em 0;
 }
-
+    
 img{
-max-width:100%;
+    float: left;
+    margin-right:1rem;
+    max-width:100%;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -114,8 +116,20 @@ body{font-size:16px;}
 </p>
 
 <hr>
-<p><img style="-webkit-user-select: none;" src="imgs/headshot.png"; height="200"; ALIGN=”left”>Yijun Li
-</p>
+
+<div>
+  <svg class="img" width="200" height="200" >
+    <img style="-webkit-user-select: none;" src="imgs/headshot.png";>
+  </svg>
+  <p>
+    Line 1
+    <br>
+    Line 2
+  </p>
+</div>
+
+<!--<p><img style="-webkit-user-select: none;" src="imgs/headshot.png"; height="200"; ALIGN=”left”>Yijun Li
+</p>-->
 
 <hr>
 <h2>Biography</h2>
