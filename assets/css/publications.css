@@ -85,4 +85,10 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 @media screen and (max-width: 768px) {
   .publications ol.bibliography li .teaser { width: 100%; max-height: none; margin-left: 0; margin-bottom: 15px; }
+  .publications ol.bibliography li .abbr { height: auto !important; margin-bottom: 1rem; overflow: visible; }
+}
+
+@media screen and (max-width: 480px) {
+  .publications ol.bibliography li .teaser { width: 100%; max-height: none; margin-left: 0; margin-bottom: 15px; }
+  .publications ol.bibliography li .abbr { height: auto !important; margin-bottom: 1rem; overflow: visible; }
 }
