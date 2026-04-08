@@ -6,7 +6,7 @@ main:
     conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026
     pdf: https://arxiv.org/pdf/2511.16825
     page: https://www.meta.com/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/
-    page_label: Official Blog
+    page_label: Meta Official Blog
     image: https://zouchuhang.github.io/publications/quickview/worldgen.png
 
   - title: "PhysInOne: Visual Physics Learning and Reasoning in One Suite"
