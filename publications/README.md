@@ -1,4 +1,0 @@
-
- # PUBLICATIONS
-
-My research work

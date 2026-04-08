@@ -1,0 +1,228 @@
+main:
+
+  - title: "WorldGen: From Text to Traversable and Interactive 3D Worlds"
+    authors: Dilin Wang, Hyunyoung Jung, Tom Monnier, Kihyuk Sohn, <strong>Chuhang Zou</strong>, Xiaoyu Xiang, Yu-Ying Yeh, Di Liu, Zixuan Huang, Thu Nguyen-Phuoc, Yuchen Fan, Sergiu Oprea, Ziyan Wang, Roman Shapovalov, Nikolaos Sarafianos, Thibault Groueix, Antoine Toisoul, Prithviraj Dhar, Xiao Chu, Minghao Chen, Geon Yeong Park, Rakesh Ranjan, Andrea Vedaldi
+    conference_short: CVPR
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026
+    pdf: https://arxiv.org/pdf/2511.16825
+    page: https://www.meta.com/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/
+    page_label: Official Blog
+    image: https://zouchuhang.github.io/publications/quickview/worldgen.png
+
+  - title: "PhysInOne: Visual Physics Learning and Reasoning in One Suite"
+    authors: Siyuan Zhou, Hejun Wang, Hu Cheng, Jinxi Li, Dongsheng Wang, Junwei Jiang, Yixiao Jin, Jiayue Huang, Shiwei Mao, Shangjia Liu, Yafei YANG, Hongkang Song, Shenxing Wei, Zihui Zhang, DataTeam vLAR, Bing WANG, Zhihua Wang, <strong>Chuhang Zou&dagger;</strong>, Bo Yang&dagger;
+    conference_short: CVPR
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026
+    image: https://zouchuhang.github.io/publications/quickview/PhysInOne.png
+
+  - title: "Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery"
+    authors: Timing Yang, Sicheng He, Hongyi Jing, Jiawei Yang, Zhijian Liu, <strong>Chuhang Zou&dagger;</strong>, Yue Wang&dagger;
+    conference_short: arXiv
+    conference: arXiv, 2026
+    title_link: https://yangtiming.github.io/Fast-SAM-3D-Body-Page/
+    pdf: https://arxiv.org/pdf/2603.15603
+    page: https://yangtiming.github.io/Fast-SAM-3D-Body-Page/
+    code: https://github.com/yangtiming/Fast-SAM-3D-Body
+    image: https://zouchuhang.github.io/publications/quickview/fastsam3d.png
+
+  - title: "WebWorld: A Large-Scale World Model for Web Agent Training"
+    authors: Zikai Xiao, Jianhong Tu, <strong>Chuhang Zou</strong>, Yuxin Zuo, Zhi Li, Peng Wang, Bowen Yu, Fei Huang, Junyang Lin, Zuozhu Liu
+    conference_short: arXiv
+    conference: arXiv, 2026
+    pdf: https://arxiv.org/pdf/2602.14721
+    image: https://zouchuhang.github.io/publications/quickview/webworld.png
+
+  - title: "SceneDiff: A Benchmark and Method for Multiview Object Change Detection"
+    authors: Yuqun Wu, Chih-hao Lin, Henry Che, Aditi Tiwari, <strong>Chuhang Zou</strong>, Shenlong Wang, Derek Hoiem
+    conference_short: arXiv
+    conference: arXiv, 2025
+    pdf: https://arxiv.org/pdf/2512.16908
+    page: https://yuqunw.github.io/SceneDiff/
+    code: https://github.com/yuqunw/scene_diff
+    image: https://zouchuhang.github.io/publications/quickview/scenediff.png
+
+  - title: "Hybrid Neural-MPM for Interactive Fluid Simulations in Real-Time"
+    authors: Jingxuan Xu, Hong Huang, <strong>Chuhang Zou</strong>, Manolis Savva, Yunchao Wei and Wuyang Chen
+    conference_short: arXiv
+    conference: arXiv, 2025
+    title_link: https://hybridmpm.github.io/
+    pdf: https://arxiv.org/pdf/2501.01603
+    page: https://hybridmpm.github.io/
+    image: https://zouchuhang.github.io/publications/quickview/fluid_2025.png
+
+  - title: "MVGBench: a Comprehensive Benchmark for Multi-view Generation Models"
+    authors: Xianghui Xie, <strong>Chuhang Zou</strong>, Meher Gitika Karumuri, Jan Eric Lenssen and Gerard Pons-Moll
+    conference_short: arXiv
+    conference: arXiv, 2025
+    title_link: https://virtualhumans.mpi-inf.mpg.de/MVGBench/
+    pdf: https://arxiv.org/pdf/2407.02797
+    page: https://virtualhumans.mpi-inf.mpg.de/MVGBench/
+    code: https://github.com/xiexh20/MVGBench
+    image: https://zouchuhang.github.io/publications/quickview/mvbench.png
+
+  - title: "Direct and Explicit 3D Generation from a Single Image"
+    authors: Haoyu Wu, Meher Gitika Karumuri, <strong>Chuhang Zou</strong>, Seungbae Bang, Yuelong Li, Dimitris Samaras and Sunil Hadap
+    conference_short: 3DV
+    conference: International Conference on 3D Vision <strong>(3DV)</strong>, 2025
+    title_link: https://hao-yu-wu.github.io/gen3d/
+    pdf: https://arxiv.org/pdf/2411.10947
+    page: https://hao-yu-wu.github.io/gen3d/
+    image: https://zouchuhang.github.io/publications/quickview/EasyDream.png
+    others: '<a href="https://www.amazon.com/b?ie=UTF8&node=23595320011" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Deployed in Amazon VTO</a>'
+    notes: "Amazon's First 3D Foundation Model in Use!"
+
+  - title: "MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance"
+    authors: Yuqun Wu, Jae Yong Lee, <strong>Chuhang Zou</strong>, Shenlong Wang, and Derek Hoiem
+    conference_short: 3DV
+    conference: International Conference on 3D Vision <strong>(3DV)</strong>, 2025
+    title_link: https://yuqunw.github.io/MonoPatchNeRF/
+    pdf: https://arxiv.org/pdf/2404.08252
+    code: https://github.com/yuqunw/monopatch_nerf
+    page: https://yuqunw.github.io/MonoPatchNeRF/
+    image: https://zouchuhang.github.io/publications/quickview/MonoPatchNerf.png
+
+  - title: "Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB"
+    authors: Yuqun Wu, Jae Yong Lee, <strong>Chuhang Zou</strong>, Derek Hoiem and Shenlong Wang
+    conference_short: 3DV
+    conference: International Conference on 3D Vision <strong>(3DV)</strong>, 2025
+    title_link: https://jyl.kr/ppng/
+    pdf: https://arxiv.org/pdf/2409.15689
+    code: https://github.com/leejaeyong7/ppng
+    page: https://jyl.kr/ppng/
+    image: https://zouchuhang.github.io/publications/quickview/PPNG.png
+
+  - title: "Ordinal Focal Loss: A Relative Fashionability Ranking Learning Method"
+    authors: Ling Ma, <strong>Chuhang Zou</strong>, Ziyi Guo, Tao Li, Zheng Liu and Fengyuan Zou
+    conference_short: IPM
+    conference: Information Processing & Management <strong>(IPM)</strong>, 2025
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0306457325001463
+    image: https://zouchuhang.github.io/publications/quickview/ipm.png
+
+  - title: "Language-driven Description Generation and Common Sense Reasoning for Video Action Recognition"
+    authors: Xiaodan Hu, <strong>Chuhang Zou</strong>, Suchen Wang, Jaechul Kim and Narendra Ahuja
+    conference_short: arXiv
+    conference: arXiv, 2025
+    pdf: https://arxiv.org/pdf/2506.16701
+    image: https://zouchuhang.github.io/publications/quickview/action.png
+
+  - title: "Recurrent Transformer Variational Autoencoders for Multi-Action Motion Synthesis"
+    authors: Rania Briq, <strong>Chuhang Zou</strong>, Leonid Pishchulin, Christopher Broaddus, J&uuml;rgen Gall
+    conference_short: CVPRW
+    conference: IEEE Conference on Computer Vision and Pattern Recognition Workshop, 2022
+    pdf: https://arxiv.org/pdf/2206.06741.pdf
+    image: https://zouchuhang.github.io/publications/quickview/T4V.png
+
+  - title: "QFF: Quantized Fourier Features for Neural Field Representations"
+    authors: Jae Yong Lee, Yuqun Wu, <strong>Chuhang Zou</strong>, Shenlong Wang, and Derek Hoiem
+    conference_short: arXiv
+    conference: arXiv, 2022
+    pdf: https://arxiv.org/pdf/2212.00914.pdf
+    image: https://zouchuhang.github.io/publications/quickview/qff_arxiv.png
+
+  - title: "Deep PatchMatch MVS with Learned Patch Coplanarity, Geometric Consistency and Adaptive Pixel Sampling"
+    authors: Jae Yong Lee, <strong>Chuhang Zou</strong> and Derek Hoiem
+    conference_short: arXiv
+    conference: arXiv, 2022
+    title_link: https://jyl.kr/patch-match-mvs-net/
+    pdf: https://arxiv.org/pdf/2210.07582
+    code: https://github.com/leejaeyong7/patchmatch-rl
+    page: https://jyl.kr/patch-match-mvs-net/
+    image: https://zouchuhang.github.io/publications/quickview/PMRL_plusplus.png
+
+  - title: "Manhattan Room Layout Reconstruction from a Single 360 Image: A Comparative Study of State-of-the-art Methods"
+    authors: <strong>Chuhang Zou</strong>, Jheng-Wei Su, Chi-Han Peng, Alex Colburn, Qi Shan, Peter Wonka, Hung-Kuo Chu and Derek Hoiem
+    conference_short: IJCV
+    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2021
+    pdf: https://arxiv.org/pdf/1910.04099.pdf
+    code: https://github.com/zouchuhang/LayoutNetv2
+    others: '<a href="https://blog.ricoh360.com/en/creating-a-future-without-walls" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Ricoh 360 Blog</a>'
+    image: https://zouchuhang.github.io/publications/quickview/IJCV_Layout.png
+
+  - title: "PatchMatch-RL: Deep MVS with Pixelwise Depth, Normal, and Visibility"
+    authors: Jae Yong Lee, Joseph DeGol, <strong>Chuhang Zou</strong> and Derek Hoiem
+    conference_short: ICCV
+    conference: IEEE International Conference on Computer Vision <strong>(ICCV)</strong>, 2021
+    title_link: https://jyl.kr/patch-match-mvs-net/
+    pdf: https://openaccess.thecvf.com/content/ICCV2021/papers/Lee_PatchMatch-RL_Deep_MVS_With_Pixelwise_Depth_Normal_and_Visibility_ICCV_2021_paper.pdf
+    code: https://github.com/leejaeyong7/patchmatch-rl
+    page: https://jyl.kr/patch-match-mvs-net/
+    image: https://zouchuhang.github.io/publications/quickview/ICCV_PMRL.png
+    notes: Oral
+
+  - title: "Multi-Task Learning from Videos via Efficient Inter-Frame Attention"
+    authors: Donghyun Kim, Lan Tian, <strong>Chuhang Zou</strong>, Ning Xu, Bryan A. Plummer, Stan Sclaroff, Jayan Eledath, Gerard Medioni
+    conference_short: ICCVW
+    conference: IEEE International Conference on Computer Vision Workshop, 2021
+    pdf: https://openaccess.thecvf.com/content/ICCV2021W/DeepMTL/papers/Kim_MILA_Multi-Task_Learning_From_Videos_via_Efficient_Inter-Frame_Attention_ICCVW_2021_paper.pdf
+    image: https://zouchuhang.github.io/publications/quickview/multi_task.png
+
+  - title: "Silhouette Guided Point Cloud Reconstruction beyond Occlusion"
+    authors: <strong>Chuhang Zou</strong> and Derek Hoiem
+    conference_short: WACV
+    conference: Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2020
+    pdf: https://openaccess.thecvf.com/content_WACV_2020/papers/Zou_Silhouette_Guided_Point_Cloud_Reconstruction_beyond_Occlusion_WACV_2020_paper.pdf
+    code: https://github.com/zouchuhang/Silhouette-Guided-3D
+    image: https://zouchuhang.github.io/publications/quickview/wacv_silhouette.png
+
+  - title: "Improving Style Transfer with Calibrated Metrics"
+    authors: Mao-Chuang Yeh, Shuai Tang, Anand Bhattad, <strong>Chuhang Zou</strong> and David Forsyth
+    conference_short: WACV
+    conference: Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2020
+    pdf: https://openaccess.thecvf.com/content_WACV_2020/papers/Yeh_Improving_Style_Transfer_with_Calibrated_Metrics_WACV_2020_paper.pdf
+    code: https://github.com/stringtron/quantative_style
+    image: https://zouchuhang.github.io/publications/quickview/style.png
+
+  - title: "Complete 3D Scene Parsing from an RGBD Image"
+    authors: <strong>Chuhang Zou</strong>, Ruiqi Guo, Zhizhong Li and Derek Hoiem
+    conference_short: IJCV
+    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2019
+    pdf: https://link.springer.com/article/10.1007%2Fs11263-018-1133-z
+    image: https://zouchuhang.github.io/publications/quickview/arxiv_complete.png
+
+  - title: "Counterfactual Depth from a Single RGB Image"
+    authors: Theerasit Issaranon, <strong>Chuhang Zou</strong> and David Forsyth
+    conference_short: ICCVW
+    conference: IEEE International Conference on Computer Vision Workshop, 2019
+    pdf: http://openaccess.thecvf.com/content_ICCVW_2019/papers/3DRW/Issaranon_Counterfactual_Depth_from_a_Single_RGB_Image_ICCVW_2019_paper.pdf
+    code: https://github.com/Theerasit/CounterfactualDepth
+    image: https://zouchuhang.github.io/publications/quickview/iccvw_depth.png
+
+  - title: "LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image"
+    authors: <strong>Chuhang Zou</strong>, Alex Colburn, Qi Shan and Derek Hoiem
+    conference_short: CVPR
+    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2018
+    pdf: http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0409.pdf
+    code: https://github.com/zouchuhang/LayoutNet
+    others: '<a href="https://towardsdatascience.com/the-10-coolest-papers-from-cvpr-2018-11cb48585a49" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">The 10 coolest papers from CVPR 2018</a> <a href="https://europe.naverlabs.com/Blog/CVPR-2018-Part-4-3D-Scene-Understanding/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Naver Labs Europe Blog</a> <a href="https://www.jiqizhixin.com/articles/2018-04-04-4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Synced AI Technology &amp; Industry Review (Chinese)</a> <a href="https://shiropen.com/seamless/LayoutNet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Seamless (Japanese)</a> <a href="https://www.youtube.com/watch?v=NBxsfyDaPuk&amp;feature=youtu.be" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">YouTube 3rd Party Intro</a> <a href="https://zhuanlan.zhihu.com/p/130965653?utm_source=wechat_session" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ZhiHu</a> <a href="https://www.zillow.com/news/zillow-group-ai-forum-2018/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Zillow Official Blog</a> <a href="https://www.gild.work/projects/seeds02.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Guild labo</a>'
+    image: https://zouchuhang.github.io/publications/quickview/CVPR_LayoutNet.png
+
+  - title: "3D-PRNN: Generating Shape Primitives with Recurrent Neural Networks"
+    authors: <strong>Chuhang Zou</strong>, Ersin Yumer, Jimei Yang, Duygu Ceylan and Derek Hoiem
+    conference_short: ICCV
+    conference: IEEE International Conference on Computer Vision <strong>(ICCV)</strong>, 2017
+    pdf: http://openaccess.thecvf.com/content_ICCV_2017/papers/Zou_3D-PRNN_Generating_Shape_ICCV_2017_paper.pdf
+    code: https://github.com/zouchuhang/3D-PRNN
+    image: https://zouchuhang.github.io/publications/quickview/ICCV_3DPRNN.png
+
+  - title: "Extraction and Classification of She Nationality Clothing via Visual Features"
+    authors: Xiaojun Ding, <strong>Chuhang Zou</strong>, Jingyu Chen and Fengyuan Zou
+    conference_short: TRJ
+    conference: Textile Research Journal <strong>(TRJ)</strong>, 2015
+    pdf: https://journals.sagepub.com/doi/abs/10.1177/0040517515609260?journalCode=trjc
+    image: https://zouchuhang.github.io/publications/quickview/TRJ.jpeg
+
+  - title: "Predicting Complete 3D Models of Indoor Scene"
+    authors: Ruiqi Guo, <strong>Chuhang Zou</strong> and Derek Hoiem
+    conference_short: arXiv
+    conference: arXiv, 2015
+    pdf: https://arxiv.org/pdf/1504.02437.pdf
+    code: https://github.com/arron2003/rgbd2full3d
+    image: https://zouchuhang.github.io/publications/quickview/arxiv_scene.png
+
+  - title: "Salient Object Detection via Fast Iterative Truncated Nuclear Norm Recovery"
+    authors: <strong>Chuhang Zou</strong>, Yao Hu, Deng Cai and Xiaofei He
+    conference_short: ISCIDE
+    conference: International Conference on Intelligence Science and Big Data Engineering <strong>(ISCIDE)</strong>, 2013
+    pdf: https://link.springer.com/chapter/10.1007/978-3-642-42057-3_31
+    image: https://zouchuhang.github.io/publications/quickview/Saliency.png
+    notes: Full Oral
