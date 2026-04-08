@@ -26,8 +26,4 @@
   <li><autocolor><a href="https://ieeecs-media.computer.org/media/conferences/cvpr/cvpr25-mentors.pdf">CVPR 2025 Speed Mentor</a>, Women in Computer Vision (WiCV) at CVPR 2021</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Reviewer</h4>
 
-<ul style="margin:0 0 20px;">
-  <li><autocolor>Mainstream conferences (e.g., CVPR, ICCV, ECCV) and journals (e.g., TPAMI, IJCV, TMLR)</autocolor></li>
-</ul>
