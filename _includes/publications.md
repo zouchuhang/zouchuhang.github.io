@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-<p style="margin: 5px 0px 0px; font-size: 14px; color: #666;">&dagger; denotes corresponding author</p>
+<p style="margin: 20px 0px 10px; font-size: 14px; color: #666;">&dagger; denotes corresponding author</p>
 
 <div class="publications">
 <ol class="bibliography">
