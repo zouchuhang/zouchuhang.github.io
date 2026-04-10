@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications <em style="font-size: 0.6em; font-weight: normal;">(See full list on <a href="https://scholar.google.com/citations?user=jBcKes0AAAAJ&hl=en" target="_blank">Google Scholar</a>)</em></h2>
 
 <p style="margin: 20px 0px 0px; font-size: 14px; color: #666;">&dagger; denotes corresponding author</p>
 
