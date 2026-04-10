@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## Biography
+<h2 id="biography">Biography</h2>
 
 I am a Research Scientist at [Meta Reality Labs](https://about.meta.com/realitylabs/) focusing on 3D Generative AI. Previously, I was a Senior Research Scientist with the Amazon GenAI (Evaluation Media) team, where I led the 3D Foundation Model group in [enhancing consumer experiences](https://www.aboutamazon.com/news/retail/how-amazon-is-using-ai-to-help-customers-shop) through generative modeling. Prior to that, I was with [Amazon Go](https://www.justwalkout.com/) Research in AWS, leading initiatives in 3D human/object modeling and video action recognition.
 

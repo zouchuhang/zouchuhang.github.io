@@ -39,6 +39,7 @@
     <nav class="sticky-nav" id="sticky-nav">
       <div class="nav-inner">
         <a href="#" class="nav-link">Home</a>
+        <a href="#biography" class="nav-link">Biography</a>
         <a href="#publications" class="nav-link">Publications</a>
         <a href="#patents" class="nav-link">Patents</a>
         <a href="#services" class="nav-link">Services</a>
@@ -155,7 +156,7 @@
       // Highlight active nav link on scroll
       window.addEventListener('scroll', function() {
         var navHeight = document.getElementById('sticky-nav').offsetHeight;
-        var sections = ['publications', 'patents', 'services'];
+        var sections = ['biography', 'publications', 'patents', 'services'];
         var current = '';
         sections.forEach(function(id) {
           var el = document.getElementById(id);
