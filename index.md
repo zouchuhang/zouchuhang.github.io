@@ -8,6 +8,8 @@ I am a Research Scientist at [Meta Reality Labs](https://about.meta.com/realityl
 
 I earned my Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign, advised by Prof. [Derek Hoiem](http://dhoiem.cs.illinois.edu/) and collaborating closely with Prof. [David Forsyth](http://luthuli.cs.uiuc.edu/~daf/). I received my B.S. in Computer Science from Zhejiang University under the advisement of Prof. [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/).
 
+If you are a self-motivated graduate student interested in joining Meta to work on cutting-edge, publishable industrial research, please drop me an email with your resume.
+
 ## Research Interests
 
 - **3D Generative AI:** Video generation, 3D foundation models, and mixed-view geometry.
@@ -29,4 +31,4 @@ I earned my Ph.D. in Computer Science from the University of Illinois at Urbana-
 
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/internship.md %}
+{% include_relative _includes/misc.md %}
