@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2511.16825
     page: https://www.meta.com/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/
     page_label: Meta Official Blog
-    image: https://zouchuhang.github.io/publications/quickview/worldgen.png
+    image: https://zouchuhang.github.io/publications/quickview/worldgen.gif
 
   - title: "PhysInOne: Visual Physics Learning and Reasoning in One Suite"
     authors: Siyuan Zhou, Hejun Wang, Hu Cheng, Jinxi Li, Dongsheng Wang, Junwei Jiang, Yixiao Jin, Jiayue Huang, Shiwei Mao, Shangjia Liu, Yafei YANG, Hongkang Song, Shenxing Wei, Zihui Zhang, DataTeam vLAR, Bing WANG, Zhihua Wang, <strong>Chuhang Zou&dagger;</strong>, Bo Yang&dagger;
