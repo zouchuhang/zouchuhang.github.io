@@ -236,13 +236,15 @@ papertitle {
 
       .avatar-wrapper .avatar-default {
         display: block;
+        margin: 0 auto;
         transition: opacity 0.3s ease;
       }
 
       .avatar-wrapper .avatar-hover {
         position: absolute;
         top: 0;
-        left: 0;
+        left: 50%;
+        transform: translateX(-50%);
         object-fit: cover;
         opacity: 0;
         transition: opacity 0.3s ease;
