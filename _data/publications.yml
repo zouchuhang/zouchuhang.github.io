@@ -49,7 +49,7 @@ main:
     title_link: https://hybridmpm.github.io/
     pdf: https://arxiv.org/pdf/2501.01603
     page: https://hybridmpm.github.io/
-    image: https://zouchuhang.github.io/publications/quickview/fluid_2025.png
+    image: https://zouchuhang.github.io/publications/quickview/hybridmpm.gif
 
   - title: "MVGBench: a Comprehensive Benchmark for Multi-view Generation Models"
     authors: Xianghui Xie, <strong>Chuhang Zou</strong>, Meher Gitika Karumuri, Jan Eric Lenssen and Gerard Pons-Moll
