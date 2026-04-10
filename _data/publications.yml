@@ -178,7 +178,7 @@ main:
     conference_short: IJCV
     conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2019
     pdf: https://link.springer.com/article/10.1007%2Fs11263-018-1133-z
-    image: https://zouchuhang.github.io/publications/quickview/arxiv_complete.png
+    image: https://zouchuhang.github.io/publications/quickview/scene3d_parsing.gif
 
   - title: "Counterfactual Depth from a Single RGB Image"
     authors: Theerasit Issaranon, <strong>Chuhang Zou</strong> and David Forsyth
