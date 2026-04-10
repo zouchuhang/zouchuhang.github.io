@@ -23,7 +23,7 @@ main:
     pdf: https://arxiv.org/pdf/2603.15603
     page: https://yangtiming.github.io/Fast-SAM-3D-Body-Page/
     code: https://github.com/yangtiming/Fast-SAM-3D-Body
-    image: https://zouchuhang.github.io/publications/quickview/fastsam3d.png
+    image: https://zouchuhang.github.io/publications/quickview/fastsam3d.gif
 
   - title: "WebWorld: A Large-Scale World Model for Web Agent Training"
     authors: Zikai Xiao, Jianhong Tu, <strong>Chuhang Zou</strong>, Yuxin Zuo, Zhi Li, Peng Wang, Bowen Yu, Fei Huang, Junyang Lin, Zuozhu Liu
