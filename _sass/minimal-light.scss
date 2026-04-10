@@ -223,27 +223,33 @@ papertitle {
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
       }
 
-      .image.avatar {
+      .avatar-wrapper {
         position: relative;
+        display: inline-block;
       }
 
-      .image.avatar .avatar-hover {
+      .avatar-wrapper .avatar-default {
+        display: block;
+        transition: opacity 0.3s ease;
+      }
+
+      .avatar-wrapper .avatar-hover {
         position: absolute;
-        top: 20px;
+        top: 0;
         left: 0;
+        width: 100%;
+        height: 100%;
         border-radius: 100%;
-        width: 45%;
-        padding: 20px;
+        object-fit: cover;
         opacity: 0;
         transition: opacity 0.3s ease;
       }
 
-      .image.avatar:hover .avatar-default {
+      .avatar-wrapper:hover .avatar-default {
         opacity: 0;
-        transition: opacity 0.3s ease;
       }
 
-      .image.avatar:hover .avatar-hover {
+      .avatar-wrapper:hover .avatar-hover {
         opacity: 1;
       }
 

@@ -41,8 +41,10 @@
         
         {% if site.avatar %}
         <a class="image avatar">
-          <img src="{{ site.avatar }}" alt="avatar" class="avatar-default" style="transition: opacity 0.3s ease;" />
-          <img src="./assets/img/cartoon_profile.png" alt="avatar-cartoon" class="avatar-hover" />
+          <div class="avatar-wrapper">
+            <img src="{{ site.avatar }}" alt="avatar" class="avatar-default" />
+            <img src="./assets/img/cartoon_profile.png" alt="avatar-cartoon" class="avatar-hover" />
+          </div>
         </a>
         {% endif %}
 
