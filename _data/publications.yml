@@ -8,6 +8,7 @@ main:
     page: https://www.meta.com/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/
     page_label: Meta Official Blog
     image: https://zouchuhang.github.io/publications/quickview/worldgen.gif
+    notes: 1st text-to-immersive world solution by Meta 3D GenAI!
 
   - title: "PhysInOne: Visual Physics Learning and Reasoning in One Suite"
     authors: Siyuan Zhou, Hejun Wang, Hu Cheng, Jinxi Li, Dongsheng Wang, Junwei Jiang, Yixiao Jin, Jiayue Huang, Shiwei Mao, Shangjia Liu, Yafei YANG, Hongkang Song, Shenxing Wei, Zihui Zhang, DataTeam vLAR, Bing WANG, Zhihua Wang, <strong>Chuhang Zou&dagger;</strong>, Bo Yang&dagger;
