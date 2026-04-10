@@ -36,6 +36,14 @@
 
   </head>
   <body>
+    <nav class="sticky-nav" id="sticky-nav">
+      <div class="nav-inner">
+        <a href="#" class="nav-link">Home</a>
+        <a href="#publications" class="nav-link">Publications</a>
+        <a href="#patents" class="nav-link">Patents</a>
+        <a href="#services" class="nav-link">Services</a>
+      </div>
+    </nav>
     <div class="wrapper">
       <header>
         
@@ -124,5 +132,50 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    <script>
+      // Smooth scroll for nav links
+      document.querySelectorAll('.sticky-nav .nav-link').forEach(function(link) {
+        link.addEventListener('click', function(e) {
+          var href = this.getAttribute('href');
+          if (href === '#') {
+            e.preventDefault();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+          } else if (href.startsWith('#')) {
+            e.preventDefault();
+            var target = document.querySelector(href);
+            if (target) {
+              var navHeight = document.getElementById('sticky-nav').offsetHeight;
+              var targetPos = target.getBoundingClientRect().top + window.pageYOffset - navHeight - 10;
+              window.scrollTo({ top: targetPos, behavior: 'smooth' });
+            }
+          }
+        });
+      });
+
+      // Highlight active nav link on scroll
+      window.addEventListener('scroll', function() {
+        var navHeight = document.getElementById('sticky-nav').offsetHeight;
+        var sections = ['publications', 'patents', 'services'];
+        var current = '';
+        sections.forEach(function(id) {
+          var el = document.getElementById(id);
+          if (el) {
+            var rect = el.getBoundingClientRect();
+            if (rect.top <= navHeight + 50) {
+              current = id;
+            }
+          }
+        });
+        document.querySelectorAll('.sticky-nav .nav-link').forEach(function(link) {
+          link.classList.remove('active');
+          var href = link.getAttribute('href');
+          if (current === '' && href === '#') {
+            link.classList.add('active');
+          } else if (href === '#' + current) {
+            link.classList.add('active');
+          }
+        });
+      });
+    </script>
   </body>
 </html>
