@@ -59,7 +59,7 @@ main:
     pdf: https://arxiv.org/pdf/2407.02797
     page: https://virtualhumans.mpi-inf.mpg.de/MVGBench/
     code: https://github.com/xiexh20/MVGBench
-    image: https://zouchuhang.github.io/publications/quickview/mvbench.png
+    image: https://zouchuhang.github.io/publications/quickview/mvgbench.png
 
   - title: "Direct and Explicit 3D Generation from a Single Image"
     authors: Haoyu Wu, Meher Gitika Karumuri, <strong>Chuhang Zou</strong>, Seungbae Bang, Yuelong Li, Dimitris Samaras and Sunil Hadap
