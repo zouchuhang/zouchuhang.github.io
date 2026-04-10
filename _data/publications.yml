@@ -68,7 +68,7 @@ main:
     title_link: https://hao-yu-wu.github.io/gen3d/
     pdf: https://arxiv.org/pdf/2411.10947
     page: https://hao-yu-wu.github.io/gen3d/
-    image: https://zouchuhang.github.io/publications/quickview/EasyDream.png
+    image: https://zouchuhang.github.io/publications/quickview/gen3d.gif
     others: '<a href="https://www.amazon.com/b?ie=UTF8&node=23595320011" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Deployed in Amazon VTO</a>'
     notes: "Amazon's First 3D Foundation Model in Use!"
 
