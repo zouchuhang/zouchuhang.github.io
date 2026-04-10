@@ -40,9 +40,9 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar" style="position: relative; display: inline-block;">
-          <img src="{{ site.avatar }}" alt="avatar" class="avatar-default" />
-          <img src="./assets/img/cartoon_profile.png" alt="avatar-cartoon" class="avatar-hover" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.3s ease;" />
+        <a class="image avatar">
+          <img src="{{ site.avatar }}" alt="avatar" class="avatar-default" style="transition: opacity 0.3s ease;" />
+          <img src="./assets/img/cartoon_profile.png" alt="avatar-cartoon" class="avatar-hover" />
         </a>
         {% endif %}
 
