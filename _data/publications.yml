@@ -80,7 +80,7 @@ main:
     pdf: https://arxiv.org/pdf/2404.08252
     code: https://github.com/yuqunw/monopatch_nerf
     page: https://yuqunw.github.io/MonoPatchNeRF/
-    image: https://zouchuhang.github.io/publications/quickview/MonoPatchNerf.png
+    image: https://zouchuhang.github.io/publications/quickview/monopatchnerf.gif
 
   - title: "Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB"
     authors: Yuqun Wu, Jae Yong Lee, <strong>Chuhang Zou</strong>, Derek Hoiem and Shenlong Wang
