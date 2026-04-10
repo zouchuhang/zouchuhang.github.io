@@ -40,7 +40,7 @@ main:
     pdf: https://arxiv.org/pdf/2512.16908
     page: https://yuqunw.github.io/SceneDiff/
     code: https://github.com/yuqunw/scene_diff
-    image: https://zouchuhang.github.io/publications/quickview/scenediff.png
+    image: https://zouchuhang.github.io/publications/quickview/scenediff.gif
 
   - title: "Hybrid Neural-MPM for Interactive Fluid Simulations in Real-Time"
     authors: Jingxuan Xu, Hong Huang, <strong>Chuhang Zou</strong>, Manolis Savva, Yunchao Wei and Wuyang Chen
