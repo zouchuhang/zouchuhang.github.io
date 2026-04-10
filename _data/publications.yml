@@ -51,15 +51,15 @@ main:
     page: https://hybridmpm.github.io/
     image: https://zouchuhang.github.io/publications/quickview/hybridmpm.gif
 
-  - title: "MVGBench: a Comprehensive Benchmark for Multi-view Generation Models"
-    authors: Xianghui Xie, <strong>Chuhang Zou</strong>, Meher Gitika Karumuri, Jan Eric Lenssen and Gerard Pons-Moll
-    conference_short: arXiv
-    conference: arXiv, 2025
-    title_link: https://virtualhumans.mpi-inf.mpg.de/MVGBench/
-    pdf: https://arxiv.org/pdf/2407.02797
-    page: https://virtualhumans.mpi-inf.mpg.de/MVGBench/
-    code: https://github.com/xiexh20/MVGBench
-    image: https://zouchuhang.github.io/publications/quickview/mvgbench.png
+  # - title: "MVGBench: a Comprehensive Benchmark for Multi-view Generation Models"
+  #   authors: Xianghui Xie, <strong>Chuhang Zou</strong>, Meher Gitika Karumuri, Jan Eric Lenssen and Gerard Pons-Moll
+  #   conference_short: arXiv
+  #   conference: arXiv, 2025
+  #   title_link: https://virtualhumans.mpi-inf.mpg.de/MVGBench/
+  #   pdf: https://arxiv.org/pdf/2407.02797
+  #   page: https://virtualhumans.mpi-inf.mpg.de/MVGBench/
+  #   code: https://github.com/xiexh20/MVGBench
+  #   image: https://zouchuhang.github.io/publications/quickview/mvgbench.png
 
   - title: "Direct and Explicit 3D Generation from a Single Image"
     authors: Haoyu Wu, Meher Gitika Karumuri, <strong>Chuhang Zou</strong>, Seungbae Bang, Yuelong Li, Dimitris Samaras and Sunil Hadap
