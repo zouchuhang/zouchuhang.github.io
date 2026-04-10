@@ -8,7 +8,7 @@ I am a Research Scientist at [Meta Reality Labs](https://about.meta.com/realityl
 
 I earned my Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign, advised by Prof. [Derek Hoiem](http://dhoiem.cs.illinois.edu/) and collaborating closely with Prof. [David Forsyth](http://luthuli.cs.uiuc.edu/~daf/). I received my B.S. in Computer Science from Zhejiang University under the advisement of Prof. [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/).
 
-<div style="border-left: 4px solid #FF5F05; padding: 10px 16px; background-color: #fafafa; color: #333; border-radius: 0 4px 4px 0; box-shadow: 0 1px 4px rgba(0,0,0,0.07);">
+<div style="border-left: 4px solid #FF5F05; padding: 10px 16px; background-color: #fafafa; color: #333; border-radius: 0 4px 4px 0; box-shadow: 0 1px 4px rgba(0,0,0,0.07); margin-bottom: 30px;">
 <strong style="color:#c0392b;">If you are a self-motivated graduate student interested in joining Meta to work on cutting-edge, publishable industrial research, please drop me an email with your resume.</strong>
 </div>
 
