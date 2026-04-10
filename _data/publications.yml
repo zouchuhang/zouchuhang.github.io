@@ -33,6 +33,7 @@ main:
     image: https://zouchuhang.github.io/publications/quickview/webworld.png
 
   - title: "SceneDiff: A Benchmark and Method for Multiview Object Change Detection"
+    title_link: https://yuqunw.github.io/SceneDiff/
     authors: Yuqun Wu, Chih-hao Lin, Henry Che, Aditi Tiwari, <strong>Chuhang Zou</strong>, Shenlong Wang, Derek Hoiem
     conference_short: arXiv
     conference: arXiv, 2025
