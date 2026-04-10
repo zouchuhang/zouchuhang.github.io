@@ -137,7 +137,7 @@ main:
     pdf: https://arxiv.org/pdf/1910.04099.pdf
     code: https://github.com/zouchuhang/LayoutNetv2
     others: '<a href="https://blog.ricoh360.com/en/creating-a-future-without-walls" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Ricoh 360 Blog</a>'
-    image: https://zouchuhang.github.io/publications/quickview/IJCV_Layout.png
+    image: https://zouchuhang.github.io/publications/quickview/manhattan_layout.gif
 
   - title: "PatchMatch-RL: Deep MVS with Pixelwise Depth, Normal, and Visibility"
     authors: Jae Yong Lee, Joseph DeGol, <strong>Chuhang Zou</strong> and Derek Hoiem
