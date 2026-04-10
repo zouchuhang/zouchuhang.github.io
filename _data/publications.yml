@@ -99,36 +99,36 @@ main:
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0306457325001463
     image: https://zouchuhang.github.io/publications/quickview/ipm.png
 
-  - title: "Language-driven Description Generation and Common Sense Reasoning for Video Action Recognition"
-    authors: Xiaodan Hu, <strong>Chuhang Zou</strong>, Suchen Wang, Jaechul Kim and Narendra Ahuja
-    conference_short: arXiv
-    conference: arXiv, 2025
-    pdf: https://arxiv.org/pdf/2506.16701
-    image: https://zouchuhang.github.io/publications/quickview/action.png
+  # - title: "Language-driven Description Generation and Common Sense Reasoning for Video Action Recognition"
+  #   authors: Xiaodan Hu, <strong>Chuhang Zou</strong>, Suchen Wang, Jaechul Kim and Narendra Ahuja
+  #   conference_short: arXiv
+  #   conference: arXiv, 2025
+  #   pdf: https://arxiv.org/pdf/2506.16701
+  #   image: https://zouchuhang.github.io/publications/quickview/action.png
 
-  - title: "Recurrent Transformer Variational Autoencoders for Multi-Action Motion Synthesis"
-    authors: Rania Briq, <strong>Chuhang Zou</strong>, Leonid Pishchulin, Christopher Broaddus, J&uuml;rgen Gall
-    conference_short: CVPRW
-    conference: IEEE Conference on Computer Vision and Pattern Recognition Workshop, 2022
-    pdf: https://arxiv.org/pdf/2206.06741.pdf
-    image: https://zouchuhang.github.io/publications/quickview/T4V.png
+  # - title: "Recurrent Transformer Variational Autoencoders for Multi-Action Motion Synthesis"
+  #   authors: Rania Briq, <strong>Chuhang Zou</strong>, Leonid Pishchulin, Christopher Broaddus, J&uuml;rgen Gall
+  #   conference_short: CVPRW
+  #   conference: IEEE Conference on Computer Vision and Pattern Recognition Workshop, 2022
+  #   pdf: https://arxiv.org/pdf/2206.06741.pdf
+  #   image: https://zouchuhang.github.io/publications/quickview/T4V.png
 
-  - title: "QFF: Quantized Fourier Features for Neural Field Representations"
-    authors: Jae Yong Lee, Yuqun Wu, <strong>Chuhang Zou</strong>, Shenlong Wang, and Derek Hoiem
-    conference_short: arXiv
-    conference: arXiv, 2022
-    pdf: https://arxiv.org/pdf/2212.00914.pdf
-    image: https://zouchuhang.github.io/publications/quickview/qff_arxiv.png
+  # - title: "QFF: Quantized Fourier Features for Neural Field Representations"
+  #   authors: Jae Yong Lee, Yuqun Wu, <strong>Chuhang Zou</strong>, Shenlong Wang, and Derek Hoiem
+  #   conference_short: arXiv
+  #   conference: arXiv, 2022
+  #   pdf: https://arxiv.org/pdf/2212.00914.pdf
+  #   image: https://zouchuhang.github.io/publications/quickview/qff_arxiv.png
 
-  - title: "Deep PatchMatch MVS with Learned Patch Coplanarity, Geometric Consistency and Adaptive Pixel Sampling"
-    authors: Jae Yong Lee, <strong>Chuhang Zou</strong> and Derek Hoiem
-    conference_short: arXiv
-    conference: arXiv, 2022
-    title_link: https://jyl.kr/patch-match-mvs-net/
-    pdf: https://arxiv.org/pdf/2210.07582
-    code: https://github.com/leejaeyong7/patchmatch-rl
-    page: https://jyl.kr/patch-match-mvs-net/
-    image: https://zouchuhang.github.io/publications/quickview/PMRL_plusplus.png
+  # - title: "Deep PatchMatch MVS with Learned Patch Coplanarity, Geometric Consistency and Adaptive Pixel Sampling"
+  #   authors: Jae Yong Lee, <strong>Chuhang Zou</strong> and Derek Hoiem
+  #   conference_short: arXiv
+  #   conference: arXiv, 2022
+  #   title_link: https://jyl.kr/patch-match-mvs-net/
+  #   pdf: https://arxiv.org/pdf/2210.07582
+  #   code: https://github.com/leejaeyong7/patchmatch-rl
+  #   page: https://jyl.kr/patch-match-mvs-net/
+  #   image: https://zouchuhang.github.io/publications/quickview/PMRL_plusplus.png
 
   - title: "Manhattan Room Layout Reconstruction from a Single 360 Image: A Comparative Study of State-of-the-art Methods"
     authors: <strong>Chuhang Zou</strong>, Jheng-Wei Su, Chi-Han Peng, Alex Colburn, Qi Shan, Peter Wonka, Hung-Kuo Chu and Derek Hoiem
@@ -150,12 +150,12 @@ main:
     image: https://zouchuhang.github.io/publications/quickview/ICCV_PMRL.png
     notes: Oral
 
-  - title: "Multi-Task Learning from Videos via Efficient Inter-Frame Attention"
-    authors: Donghyun Kim, Lan Tian, <strong>Chuhang Zou</strong>, Ning Xu, Bryan A. Plummer, Stan Sclaroff, Jayan Eledath, Gerard Medioni
-    conference_short: ICCVW
-    conference: IEEE International Conference on Computer Vision Workshop, 2021
-    pdf: https://openaccess.thecvf.com/content/ICCV2021W/DeepMTL/papers/Kim_MILA_Multi-Task_Learning_From_Videos_via_Efficient_Inter-Frame_Attention_ICCVW_2021_paper.pdf
-    image: https://zouchuhang.github.io/publications/quickview/multi_task.png
+  # - title: "Multi-Task Learning from Videos via Efficient Inter-Frame Attention"
+  #   authors: Donghyun Kim, Lan Tian, <strong>Chuhang Zou</strong>, Ning Xu, Bryan A. Plummer, Stan Sclaroff, Jayan Eledath, Gerard Medioni
+  #   conference_short: ICCVW
+  #   conference: IEEE International Conference on Computer Vision Workshop, 2021
+  #   pdf: https://openaccess.thecvf.com/content/ICCV2021W/DeepMTL/papers/Kim_MILA_Multi-Task_Learning_From_Videos_via_Efficient_Inter-Frame_Attention_ICCVW_2021_paper.pdf
+  #   image: https://zouchuhang.github.io/publications/quickview/multi_task.png
 
   - title: "Silhouette Guided Point Cloud Reconstruction beyond Occlusion"
     authors: <strong>Chuhang Zou</strong> and Derek Hoiem
@@ -212,13 +212,13 @@ main:
     pdf: https://journals.sagepub.com/doi/abs/10.1177/0040517515609260?journalCode=trjc
     image: https://zouchuhang.github.io/publications/quickview/TRJ.jpeg
 
-  - title: "Predicting Complete 3D Models of Indoor Scene"
-    authors: Ruiqi Guo, <strong>Chuhang Zou</strong> and Derek Hoiem
-    conference_short: arXiv
-    conference: arXiv, 2015
-    pdf: https://arxiv.org/pdf/1504.02437.pdf
-    code: https://github.com/arron2003/rgbd2full3d
-    image: https://zouchuhang.github.io/publications/quickview/arxiv_scene.png
+  # - title: "Predicting Complete 3D Models of Indoor Scene"
+  #   authors: Ruiqi Guo, <strong>Chuhang Zou</strong> and Derek Hoiem
+  #   conference_short: arXiv
+  #   conference: arXiv, 2015
+  #   pdf: https://arxiv.org/pdf/1504.02437.pdf
+  #   code: https://github.com/arron2003/rgbd2full3d
+  #   image: https://zouchuhang.github.io/publications/quickview/arxiv_scene.png
 
   - title: "Salient Object Detection via Fast Iterative Truncated Nuclear Norm Recovery"
     authors: <strong>Chuhang Zou</strong>, Yao Hu, Deng Cai and Xiaofei He
