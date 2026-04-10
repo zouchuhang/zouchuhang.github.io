@@ -226,6 +226,12 @@ papertitle {
       .avatar-wrapper {
         position: relative;
         display: inline-block;
+        margin: 0 auto;
+      }
+
+      .image.avatar {
+        display: block;
+        text-align: center;
       }
 
       .avatar-wrapper .avatar-default {
