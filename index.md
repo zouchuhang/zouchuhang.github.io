@@ -4,7 +4,7 @@ layout: homepage
 
 <h2 id="biography">Biography</h2>
 
-I am a Research Scientist at [Meta Reality Labs](https://about.meta.com/realitylabs/) focusing on 3D Generative AI. Previously, I was a Senior Research Scientist with the Amazon GenAI (Evaluation Media) team, where I led the 3D Foundation Model group in [enhancing consumer experiences](https://www.aboutamazon.com/news/retail/how-amazon-is-using-ai-to-help-customers-shop) through generative modeling. Prior to that, I was with [Amazon Go](https://www.justwalkout.com/) Research in AWS, leading initiatives in 3D human/object modeling and video action recognition.
+I am a Staff AI Research Scientist at [Meta Reality Labs](https://about.meta.com/realitylabs/) focusing on 3D Generative AI. Previously, I was a Senior Research Scientist with the Amazon GenAI (Evaluation Media) team, where I led the 3D Foundation Model group in [enhancing consumer experiences](https://www.aboutamazon.com/news/retail/how-amazon-is-using-ai-to-help-customers-shop) through generative modeling. Prior to that, I was with [Amazon Go](https://www.justwalkout.com/) Research in AWS, leading initiatives in 3D human/object modeling and video action recognition.
 
 I earned my Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign, advised by Prof. [Derek Hoiem](http://dhoiem.cs.illinois.edu/) and collaborating closely with Prof. [David Forsyth](http://luthuli.cs.uiuc.edu/~daf/). I received my B.S. in Computer Science from Zhejiang University under the advisement of Prof. [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/).
 
