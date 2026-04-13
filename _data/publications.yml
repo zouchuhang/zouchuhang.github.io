@@ -15,6 +15,9 @@ main:
     authors: Siyuan Zhou, Hejun Wang, Hu Cheng, Jinxi Li, Dongsheng Wang, Junwei Jiang, Yixiao Jin, Jiayue Huang, Shiwei Mao, Shangjia Liu, Yafei YANG, Hongkang Song, Shenxing Wei, Zihui Zhang, DataTeam vLAR, Bing WANG, Zhihua Wang, <strong>Chuhang Zou&dagger;</strong>, Bo Yang&dagger;
     conference_short: CVPR
     conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026
+    pdf: https://arxiv.org/pdf/2604.09415
+    code: https://github.com/vLAR-group/PhysInOne
+    data: https://huggingface.co/datasets/vLAR/PhysInOne
     page: https://vlar-group.github.io/PhysInOne.html
     image: https://zouchuhang.github.io/publications/quickview/PhysInOne.png
 
