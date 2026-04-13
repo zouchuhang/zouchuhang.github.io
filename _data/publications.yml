@@ -19,7 +19,7 @@ main:
     code: https://github.com/vLAR-group/PhysInOne
     data: https://huggingface.co/datasets/vLAR/PhysInOne
     page: https://vlar-group.github.io/PhysInOne.html
-    image: https://zouchuhang.github.io/publications/quickview/PhysInOne.png
+    image: ./assets/img/PhysInOne.gif
 
   - title: "Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery"
     authors: Timing Yang, Sicheng He, Hongyi Jing, Jiawei Yang, Zhijian Liu, <strong>Chuhang Zou&dagger;</strong>, Yue Wang&dagger;
