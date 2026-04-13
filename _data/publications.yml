@@ -11,9 +11,11 @@ main:
     notes: 1st Text-to-Immersive World Modeling by Meta 3D GenAI!
 
   - title: "PhysInOne: Visual Physics Learning and Reasoning in One Suite"
+    title_link: https://vlar-group.github.io/PhysInOne.html
     authors: Siyuan Zhou, Hejun Wang, Hu Cheng, Jinxi Li, Dongsheng Wang, Junwei Jiang, Yixiao Jin, Jiayue Huang, Shiwei Mao, Shangjia Liu, Yafei YANG, Hongkang Song, Shenxing Wei, Zihui Zhang, DataTeam vLAR, Bing WANG, Zhihua Wang, <strong>Chuhang Zou&dagger;</strong>, Bo Yang&dagger;
     conference_short: CVPR
     conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026
+    page: https://vlar-group.github.io/PhysInOne.html
     image: https://zouchuhang.github.io/publications/quickview/PhysInOne.png
 
   - title: "Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery"
