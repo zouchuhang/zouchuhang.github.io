@@ -2,7 +2,7 @@
 
 <p style="margin-top: 10px;">
 Deployed to <a href="https://aws.amazon.com/blogs/machine-learning/enhancing-just-walk-out-technology-with-multi-modal-ai/" target="_blank"><strong>Amazon Just Walk Out</strong></a> technology:
-<a href="https://patents.google.com/patent/US12573237B1" target="_blank">US Patent No. 12573237B1</a> (2025),
+<a href="https://patents.google.com/patent/US12573237B1" target="_blank">US Patent No. 12573237B1</a> (2026),
 <a href="https://patents.google.com/patent/US12475708B1" target="_blank">No. 12475708B1</a> (2025),
 <a href="https://patentimages.storage.googleapis.com/c4/ae/94/10aeabd990d3e4/US12131539.pdf" target="_blank">No. 12131539B1</a> (2024),
 <a href="https://patentimages.storage.googleapis.com/b3/fc/9f/94ca8c9cb7fa1f/US11810362.pdf" target="_blank">No. 11810362B1</a> (2023),
