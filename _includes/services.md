@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Area Chair</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>CVPR (2023&ndash;2026), NeurIPS (2024&ndash;2026), ICML 2026, ECCV 2026, 3DV (2024&ndash;2025), BMVC 2026, WACV (2024&ndash;2025)</autocolor></li>
+  <li><autocolor>CVPR (2023&ndash;2026), NeurIPS (2024&ndash;2025), ICML 2026, ECCV 2026, 3DV (2024&ndash;2025), BMVC 2026, WACV (2024&ndash;2025)</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Senior Program Committee</h4>
