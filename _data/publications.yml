@@ -21,6 +21,13 @@ main:
     page: https://vlar-group.github.io/PhysInOne.html
     image: ./assets/img/PhysInOne.gif
 
+  - title: "WebWorld: A Large-Scale World Model for Web Agent Training"
+    authors: Zikai Xiao, Jianhong Tu, <strong>Chuhang Zou</strong>, Yuxin Zuo, Zhi Li, Peng Wang, Bowen Yu, Fei Huang, Junyang Lin, Zuozhu Liu
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026
+    pdf: https://arxiv.org/pdf/2602.14721
+    image: https://zouchuhang.github.io/publications/quickview/webworld.png
+
   - title: "Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery"
     authors: Timing Yang, Sicheng He, Hongyi Jing, Jiawei Yang, Zhijian Liu, <strong>Chuhang Zou&dagger;</strong>, Yue Wang&dagger;
     conference_short: arXiv
@@ -30,13 +37,6 @@ main:
     page: https://yangtiming.github.io/Fast-SAM-3D-Body-Page/
     code: https://github.com/yangtiming/Fast-SAM-3D-Body
     image: https://zouchuhang.github.io/publications/quickview/fastsam3d.gif
-
-  - title: "WebWorld: A Large-Scale World Model for Web Agent Training"
-    authors: Zikai Xiao, Jianhong Tu, <strong>Chuhang Zou</strong>, Yuxin Zuo, Zhi Li, Peng Wang, Bowen Yu, Fei Huang, Junyang Lin, Zuozhu Liu
-    conference_short: arXiv
-    conference: arXiv, 2026
-    pdf: https://arxiv.org/pdf/2602.14721
-    image: https://zouchuhang.github.io/publications/quickview/webworld.png
 
   - title: "SceneDiff: A Benchmark and Method for Multiview Object Change Detection"
     title_link: https://yuqunw.github.io/SceneDiff/
