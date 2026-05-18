@@ -250,6 +250,44 @@ papertitle {
   width: 8em;
 }
 
+.avatar-wrapper {
+  position: relative;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.image.avatar {
+  display: block;
+  text-align: center;
+}
+
+.avatar-wrapper .avatar-default {
+  display: block;
+  margin: 0 auto;
+  transition: opacity 0.3s ease;
+}
+
+.avatar-wrapper .avatar-hover {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  width: 45%;
+  padding: 20px;
+  border-radius: 100%;
+}
+
+.avatar-wrapper:hover .avatar-default {
+  opacity: 0;
+}
+
+.avatar-wrapper:hover .avatar-hover {
+  opacity: 1;
+}
+
 h3, h4, h5, h6 {
   font-weight: 600;
   color: #043361;
