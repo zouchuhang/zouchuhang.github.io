@@ -20,6 +20,7 @@ I earned my Ph.D. in Computer Science from the University of Illinois at Urbana-
 
 ## News
 
+- **[2026]** Awarded CVPR 2026 Outstanding Area Chair.
 - **[2026]** Serving as an Area Chair for ICML, CVPR, ECCV 2026.
 - **[2026]** Two papers accepted to CVPR 2026 (WorldGen, PhysInOne).
 - **[2026]** One paper accepted to ICML 2026 (WebWorld).
