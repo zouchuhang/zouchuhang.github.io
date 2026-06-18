@@ -98,12 +98,12 @@ main:
     page: https://jyl.kr/ppng/
     image: https://zouchuhang.github.io/publications/quickview/PPNG.png
 
-  - title: "Ordinal Focal Loss: A Relative Fashionability Ranking Learning Method"
-    authors: Ling Ma, <strong>Chuhang Zou</strong>, Ziyi Guo, Tao Li, Zheng Liu and Fengyuan Zou
-    conference_short: IPM
-    conference: Information Processing & Management <strong>(IPM)</strong>, 2025
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0306457325001463
-    image: https://zouchuhang.github.io/publications/quickview/ipm.png
+  # - title: "Ordinal Focal Loss: A Relative Fashionability Ranking Learning Method"
+  #   authors: Ling Ma, <strong>Chuhang Zou</strong>, Ziyi Guo, Tao Li, Zheng Liu and Fengyuan Zou
+  #   conference_short: IPM
+  #   conference: Information Processing & Management <strong>(IPM)</strong>, 2025
+  #   pdf: https://www.sciencedirect.com/science/article/abs/pii/S0306457325001463
+  #   image: https://zouchuhang.github.io/publications/quickview/ipm.png
 
   # - title: "Language-driven Description Generation and Common Sense Reasoning for Video Action Recognition"
   #   authors: Xiaodan Hu, <strong>Chuhang Zou</strong>, Suchen Wang, Jaechul Kim and Narendra Ahuja
@@ -211,12 +211,12 @@ main:
     code: https://github.com/zouchuhang/3D-PRNN
     image: https://zouchuhang.github.io/publications/quickview/ICCV_3DPRNN.png
 
-  - title: "Extraction and Classification of She Nationality Clothing via Visual Features"
-    authors: Xiaojun Ding, <strong>Chuhang Zou</strong>, Jingyu Chen and Fengyuan Zou
-    conference_short: TRJ
-    conference: Textile Research Journal <strong>(TRJ)</strong>, 2015
-    pdf: https://journals.sagepub.com/doi/abs/10.1177/0040517515609260?journalCode=trjc
-    image: https://zouchuhang.github.io/publications/quickview/TRJ.jpeg
+  # - title: "Extraction and Classification of She Nationality Clothing via Visual Features"
+  #   authors: Xiaojun Ding, <strong>Chuhang Zou</strong>, Jingyu Chen and Fengyuan Zou
+  #   conference_short: TRJ
+  #   conference: Textile Research Journal <strong>(TRJ)</strong>, 2015
+  #   pdf: https://journals.sagepub.com/doi/abs/10.1177/0040517515609260?journalCode=trjc
+  #   image: https://zouchuhang.github.io/publications/quickview/TRJ.jpeg
 
   # - title: "Predicting Complete 3D Models of Indoor Scene"
   #   authors: Ruiqi Guo, <strong>Chuhang Zou</strong> and Derek Hoiem
