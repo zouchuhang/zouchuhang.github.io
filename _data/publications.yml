@@ -186,13 +186,13 @@ main:
     pdf: https://link.springer.com/article/10.1007%2Fs11263-018-1133-z
     image: https://zouchuhang.github.io/publications/quickview/scene3d_parsing.gif
 
-  - title: "Counterfactual Depth from a Single RGB Image"
-    authors: Theerasit Issaranon, <strong>Chuhang Zou</strong> and David Forsyth
-    conference_short: ICCVW
-    conference: IEEE International Conference on Computer Vision Workshop, 2019
-    pdf: http://openaccess.thecvf.com/content_ICCVW_2019/papers/3DRW/Issaranon_Counterfactual_Depth_from_a_Single_RGB_Image_ICCVW_2019_paper.pdf
-    code: https://github.com/Theerasit/CounterfactualDepth
-    image: https://zouchuhang.github.io/publications/quickview/iccvw_depth.png
+  # - title: "Counterfactual Depth from a Single RGB Image"
+  #   authors: Theerasit Issaranon, <strong>Chuhang Zou</strong> and David Forsyth
+  #   conference_short: ICCVW
+  #   conference: IEEE International Conference on Computer Vision Workshop, 2019
+  #   pdf: http://openaccess.thecvf.com/content_ICCVW_2019/papers/3DRW/Issaranon_Counterfactual_Depth_from_a_Single_RGB_Image_ICCVW_2019_paper.pdf
+  #   code: https://github.com/Theerasit/CounterfactualDepth
+  #   image: https://zouchuhang.github.io/publications/quickview/iccvw_depth.png
 
   - title: "LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image"
     authors: <strong>Chuhang Zou</strong>, Alex Colburn, Qi Shan and Derek Hoiem
