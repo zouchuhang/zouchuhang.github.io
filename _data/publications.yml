@@ -21,13 +21,6 @@ main:
     page: https://vlar-group.github.io/PhysInOne.html
     image: ./assets/img/PhysInOne.gif
 
-  - title: "WebWorld: A Large-Scale World Model for Web Agent Training"
-    authors: Zikai Xiao, Jianhong Tu, <strong>Chuhang Zou</strong>, Yuxin Zuo, Zhi Li, Peng Wang, Bowen Yu, Fei Huang, Junyang Lin, Zuozhu Liu
-    conference_short: ICML
-    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026
-    pdf: https://arxiv.org/pdf/2602.14721
-    image: https://zouchuhang.github.io/publications/quickview/webworld.png
-
   - title: "Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery"
     authors: Timing Yang, Sicheng He, Hongyi Jing, Jiawei Yang, Zhijian Liu, <strong>Chuhang Zou&dagger;</strong>, Yue Wang&dagger;
     conference_short: ECCV
@@ -47,6 +40,13 @@ main:
     page: https://yuqunw.github.io/SceneDiff/
     code: https://github.com/yuqunw/scene_diff
     image: https://zouchuhang.github.io/publications/quickview/scenediff.gif
+
+  - title: "WebWorld: A Large-Scale World Model for Web Agent Training"
+    authors: Zikai Xiao, Jianhong Tu, <strong>Chuhang Zou</strong>, Yuxin Zuo, Zhi Li, Peng Wang, Bowen Yu, Fei Huang, Junyang Lin, Zuozhu Liu
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026
+    pdf: https://arxiv.org/pdf/2602.14721
+    image: https://zouchuhang.github.io/publications/quickview/webworld.png
 
   - title: "Hybrid Neural-MPM for Interactive Fluid Simulations in Real-Time"
     authors: Jingxuan Xu, Hong Huang, <strong>Chuhang Zou</strong>, Manolis Savva, Yunchao Wei and Wuyang Chen
