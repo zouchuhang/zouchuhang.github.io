@@ -30,8 +30,8 @@ main:
 
   - title: "Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery"
     authors: Timing Yang, Sicheng He, Hongyi Jing, Jiawei Yang, Zhijian Liu, <strong>Chuhang Zou&dagger;</strong>, Yue Wang&dagger;
-    conference_short: arXiv
-    conference: arXiv, 2026
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2026
     title_link: https://yangtiming.github.io/Fast-SAM-3D-Body-Page/
     pdf: https://arxiv.org/pdf/2603.15603
     page: https://yangtiming.github.io/Fast-SAM-3D-Body-Page/
@@ -41,8 +41,8 @@ main:
   - title: "SceneDiff: A Benchmark and Method for Multiview Object Change Detection"
     title_link: https://yuqunw.github.io/SceneDiff/
     authors: Yuqun Wu, Chih-hao Lin, Henry Che, Aditi Tiwari, <strong>Chuhang Zou&dagger;</strong>, Shenlong Wang&dagger;, Derek Hoiem&dagger;
-    conference_short: arXiv
-    conference: arXiv, 2025
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2026
     pdf: https://arxiv.org/pdf/2512.16908
     page: https://yuqunw.github.io/SceneDiff/
     code: https://github.com/yuqunw/scene_diff
