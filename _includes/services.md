@@ -9,7 +9,7 @@
 <h4 style="margin:0 10px 0;">Senior Program Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>IJCAI 2021</autocolor></li>
+  <li><autocolor>AAAI 2027, IJCAI 2021</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Workshop Co-organizer</h4>
