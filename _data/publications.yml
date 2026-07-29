@@ -1,15 +1,5 @@
 main:
 
-  - title: "WorldGen: From Text to Traversable and Interactive 3D Worlds"
-    authors: Dilin Wang, Hyunyoung Jung, Tom Monnier, Kihyuk Sohn, <strong>Chuhang Zou</strong>, Xiaoyu Xiang, Yu-Ying Yeh, Di Liu, Zixuan Huang, Thu Nguyen-Phuoc, Yuchen Fan, Sergiu Oprea, Ziyan Wang, Roman Shapovalov, Nikolaos Sarafianos, Thibault Groueix, Antoine Toisoul, Prithviraj Dhar, Xiao Chu, Minghao Chen, Geon Yeong Park, Rakesh Ranjan, Andrea Vedaldi
-    conference_short: CVPR
-    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026
-    pdf: https://arxiv.org/pdf/2511.16825
-    page: https://www.meta.com/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/
-    page_label: Meta Official Blog
-    image: https://zouchuhang.github.io/publications/quickview/worldgen.gif
-    notes: 1st Text-to-Immersive World Modeling by Meta 3D GenAI!
-
   - title: "PhysInOne: Visual Physics Learning and Reasoning in One Suite"
     title_link: https://vlar-group.github.io/PhysInOne.html
     authors: Siyuan Zhou, Hejun Wang, Hu Cheng, Jinxi Li, Dongsheng Wang, Junwei Jiang, Yixiao Jin, Jiayue Huang, Shiwei Mao, Shangjia Liu, Yafei YANG, Hongkang Song, Shenxing Wei, Zihui Zhang, Bing WANG, Zhihua Wang, <strong>Chuhang Zou&dagger;</strong>, Bo Yang&dagger;
@@ -20,6 +10,16 @@ main:
     data: https://huggingface.co/datasets/vLAR/PhysInOne
     page: https://vlar-group.github.io/PhysInOne.html
     image: ./assets/img/PhysInOne.gif
+
+  - title: "WorldGen: From Text to Traversable and Interactive 3D Worlds"
+    authors: Dilin Wang, Hyunyoung Jung, Tom Monnier, Kihyuk Sohn, <strong>Chuhang Zou</strong>, Xiaoyu Xiang, Yu-Ying Yeh, Di Liu, Zixuan Huang, Thu Nguyen-Phuoc, Yuchen Fan, Sergiu Oprea, Ziyan Wang, Roman Shapovalov, Nikolaos Sarafianos, Thibault Groueix, Antoine Toisoul, Prithviraj Dhar, Xiao Chu, Minghao Chen, Geon Yeong Park, Rakesh Ranjan, Andrea Vedaldi
+    conference_short: CVPR
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026
+    pdf: https://arxiv.org/pdf/2511.16825
+    page: https://www.meta.com/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/
+    page_label: Meta Official Blog
+    image: https://zouchuhang.github.io/publications/quickview/worldgen.gif
+    notes: 1st Text-to-Immersive World Modeling by Meta 3D GenAI!
 
   - title: "Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery"
     authors: Timing Yang, Sicheng He, Hongyi Jing, Jiawei Yang, Zhijian Liu, <strong>Chuhang Zou&dagger;</strong>, Yue Wang&dagger;
